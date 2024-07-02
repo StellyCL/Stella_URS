@@ -1,0 +1,3 @@
+../Core/Src/sim900.c:37:13:checkResp	24	static
+../Core/Src/sim900.c:62:6:sim900Init	8	static
+../Core/Src/sim900.c:89:6:sim900SendSMS	8	static
